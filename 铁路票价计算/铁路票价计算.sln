@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "铁路票价计算", "铁路票价计算.csproj", "{4CBA1FDB-A670-4013-BB28-FDA21136D54C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBA1FDB-A670-4013-BB28-FDA21136D54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBA1FDB-A670-4013-BB28-FDA21136D54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBA1FDB-A670-4013-BB28-FDA21136D54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBA1FDB-A670-4013-BB28-FDA21136D54C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3FB8190-6499-4A30-A738-4DEC6650D5DE}
+	EndGlobalSection
+EndGlobal
